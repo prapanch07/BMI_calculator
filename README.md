@@ -4,6 +4,8 @@ This is a simple Android application that is used to calculate the Body Mass Ind
 
 BMI = weight (kg) / (height (m) * height (m))
 
+### **You can download apk from the Android release in the release section**
+
 ## Features
 
 - Calculate BMI: Users can input their height (in centimeters or inches) and weight (in kilograms or pounds) to calculate their BMI.
